@@ -12,7 +12,7 @@
     <description>GO Main components 1</description>
 
     <properties>
-        <commons.version>0.0.1</commons.version>
+        <commons.version>0.0.10</commons.version>
         <scala.version>2.11.7</scala.version>
         <junit-version>4.11</junit-version>
     </properties>
