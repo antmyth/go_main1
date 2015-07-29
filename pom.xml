@@ -55,7 +55,7 @@
 		</repository>
 	</repositories>
 	<scm>
-		<developerConnection>scm:git:git@github.com:antmyth/go-main1.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:antmyth/go_main1.git</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
 	<build>
