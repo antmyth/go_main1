@@ -60,7 +60,6 @@
         </repository>
     </repositories>
     <scm>
-        <connection>scm:git:git@github.com:antmyth/go-main1.git</connection>
         <developerConnection>scm:git:git@github.com:antmyth/go-main1.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
@@ -112,6 +111,14 @@
                     <releaseProfiles>release</releaseProfiles>
                 </configuration>
             </plugin>
+			<plugin>
+			        <groupId>org.apache.maven.plugins</groupId>
+			        <artifactId>maven-scm-plugin</artifactId>
+			        <version>1.9.4</version>
+			        <configuration>
+			          <connectionType>developerConnection</connectionType>
+			        </configuration>
+			      </plugin>
         </plugins>
     </build>
 </project>
