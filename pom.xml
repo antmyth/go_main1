@@ -4,7 +4,7 @@
 
     <groupId>com.nature.hub</groupId>
     <artifactId>go-main1</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>GO Main components 1</name>
     <description>GO Main components 1</description>
