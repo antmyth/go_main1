@@ -8,7 +8,7 @@
 	<name>GO Main components 1</name>
 	<description>GO Main components 1 update8</description>
 	<properties>
-		<commons.version>0.0.42</commons.version>
+		<commons.version>0.0.43</commons.version>
 		<scala.version>2.11.7</scala.version>
 		<junit-version>4.11</junit-version>
 	</properties>
