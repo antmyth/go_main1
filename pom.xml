@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.nature.hub</groupId>
 	<artifactId>go-main1</artifactId>
-	<version>0.0.34</version>
+	<version>0.0.35-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>GO Main components 1</name>
 	<description>GO Main components 1 update8</description>
@@ -56,7 +56,7 @@
 	</repositories>
 	<scm>
 		<developerConnection>scm:git:git@github.com:antmyth/go_main1.git</developerConnection>
-		<tag>go-main1-0.0.34</tag>
+		<tag>HEAD</tag>
 	</scm>
 	<build>
 		<plugins>
