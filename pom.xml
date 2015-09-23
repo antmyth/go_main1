@@ -6,7 +6,7 @@
 	<version>0.0.45-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>GO Main components 1</name>
-	<description>GO Main components 1 update13</description>
+	<description>GO Main components 1 update14</description>
 	<properties>
 		<commons.version>0.0.46</commons.version>
 		<scala.version>2.11.7</scala.version>
